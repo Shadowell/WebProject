@@ -1323,6 +1323,11 @@ mark,
 .text-center {
   text-align: center;
 }
+.image1-center {
+  padding-left: 40%;
+  padding-right: 40%;
+  text-align: center;
+}
 .text-justify {
   text-align: justify;
 }
@@ -1930,6 +1935,10 @@ pre code {
 @media (min-width: 992px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
+  }
+  .col-md-13 {
+    /*margin: auto;*/
+
   }
   .col-md-12 {
     width: 100%;

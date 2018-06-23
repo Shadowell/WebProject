@@ -3377,7 +3377,8 @@ h2.typoh2 {
 		float: left;
 	}
 	.map {
-		padding: 0;
+		margin:0 auto;
+
 	}
 	.services_grids {
 		width: 86%;
